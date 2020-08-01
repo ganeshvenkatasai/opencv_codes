@@ -1,0 +1,15 @@
+WHAT YOU LEARN :
+
+1. read image using opencv
+2. watch that image
+3. writing (saving) an image
+4. reshaping an image
+
+
+REQUIREMENTS:
+
+1.IDE (example: Jupyter Notebook , Pycharm ,VScode )
+
+2.opencv ( if not there , type this in command prompt "pip install opencv-python")
+
+
